@@ -1,3 +1,4 @@
 ipywidgets==7.6.5
 IPython==7.29.0
 voila==0.3.0
+webbrowser
